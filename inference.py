@@ -26,17 +26,10 @@ def load_model(model_name):
         model_config = Llama2Config.from_pretrained(model_dir)
         model_config.pretraining_tp = 1
         tokenizer = Llama2Tokenizer.from_pretrained(model_dir)
-        quantization_config = BitsAndBytesConfig(
-            load_in_8bit=False,
-            load_in_4bit=True,
-            bnb_4bit_compute_dtype=torch.float16,
-            bnb_4bit_quant_type='nf4',
-            bnb_4bit_use_double_quant=True)
         model = Model.from_pretrained(
             model_dir,
             torch_dtype=torch.float16,
             config=model_config,
-            quantization_config=quantization_config,
             device_map='auto'
         )
 

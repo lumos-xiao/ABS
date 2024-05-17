@@ -4,7 +4,7 @@
 <b>
 Automated robustness testing framework AORTA and testing method for LLM-based NLP software ABS.</b>
 <br/><br/>
-<a href=""><img src="adv_test_case.png" alt="Logo" width=80%></a>
+<a href=""><img src="images/AORTA_ABS.png" alt="Logo" width=70%></a>
 
   
 <p align="center">
@@ -15,7 +15,7 @@ Code release and supplementary materials for:</br>
 
 ## An example of robustness flaws in LLM-based NLP software
 Slightly perturbed text can mislead ChatGPT into judging the label of financial news from "NEGATIVE" (with a confidence of 75%) to "POSITIVE" (with a confidence of 93%).
-![image](https://github.com/lumos-xiao/ABS/blob/main/adv_test_case.png)
+![image](https://github.com/lumos-xiao/ABS/blob/main/images/adv_test_case.png)
 
 ## Datesets
 There are three datasets used in our experiments:

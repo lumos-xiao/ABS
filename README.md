@@ -77,7 +77,25 @@ Follow these steps to run the attack from the library:
 Take a look at the `Models` directory in [Hugging Face](https://huggingface.co/models) to run the test across any threat model.
 
 
-
+## Test methods available through AORTA
+1. CheckList
+2. StressTest
+3. PWWS
+4. TextBugger
+5. TextFooler
+6. BAE
+7. BERT-attack
+8. CLARE
+9. Deepwordbug
+10. Alzantot
+11. Faster-alzantot
+12. IGA
+13. LEAP
+14. PSO
+15. PRUTHI
+16. Kuleshov
+17. Input-reduction
+18. ABS
 
 ## License
 This code and model are available for non-commercial scientific research purposes as defined in the [LICENSE](LICENSE) file. By downloading and using the code and model you agree to the terms in the [LICENSE](LICENSE).

@@ -77,7 +77,7 @@ Follow these steps to run the attack from the library:
 Take a look at the `Models` directory in [Hugging Face](https://huggingface.co/models) to run the test across any threat model.
 
 
-## Test methods available through AORTA
+## Test methods available via AORTA
 1. CheckList
 2. StressTest
 3. PWWS

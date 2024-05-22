@@ -1,4 +1,4 @@
-<h1 align="center">ABS</h1>
+<h1 align="center">Automated Robustness Testing for LLM-based NLP Software</h1>
 
 <p align="center">
 <b>
@@ -6,11 +6,7 @@ Automated robustness testing framework AORTA and testing method for LLM-based NL
 <br/><br/>
 <a href=""><img src="images/AORTA_ABS.png" alt="Logo" width=70%></a>
 
-  
-<p align="center">
-Code release and supplementary materials for:</br>
-  <b>"ABS: Automated Robustness Testing for LLM-based NLP Software"</b></br>
-</p>
+
 
 
 ## An example of robustness flaws in LLM-based NLP software

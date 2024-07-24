@@ -11,7 +11,7 @@ Automated robustness testing framework AORTA and testing method for LLM-based NL
 
 ## An example of robustness flaws in LLM-based NLP software
 Slightly perturbed text can mislead ChatGPT into judging the label of financial news from "NEGATIVE" (with a confidence of 75%) to "POSITIVE" (with a confidence of 93%).
-![image](https://github.com/lumos-xiao/ABS/blob/main/images/adv_test_case.png)
+![image](https://github.com/lumos-xiao/ABS/blob/main/images/gpt_test_case.png)
 
 ## Datesets
 There are three datasets used in our experiments:

@@ -93,6 +93,10 @@ Take a look at the `Models` directory in [Hugging Face](https://huggingface.co/m
 17. Input-reduction
 18. ABS
 
+## Supplementary
+### Comparison results of ABS in RQ2 with three currently best performing baselines
+![image](https://github.com/lumos-xiao/ABS/blob/main/images/RQ2.png)
+
 ## License
 This code and model are available for non-commercial scientific research purposes as defined in the [LICENSE](LICENSE) file. By downloading and using the code and model you agree to the terms in the [LICENSE](LICENSE).
 

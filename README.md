@@ -95,7 +95,13 @@ Take a look at the `Models` directory in [Hugging Face](https://huggingface.co/m
 
 ## Supplementary
 ### Comparison results of ABS in RQ2 with three currently best performing baselines
+In Section VI, RQ2, due to space limitations, we selected only one currently best-performing method, PWWS, to compare with ABS across each dataset and threat model. Below are the complete experimental results regarding time overhead (T-O, s/item) and query numbers (Q-N). 
+
+
 ![image](https://github.com/lumos-xiao/ABS/blob/main/images/RQ2.png)
+
+
+In most cases, ABS generates successful test cases with lower time overhead and query numbers. This efficiency is especially critical in LLM-based software testing, as it significantly reduces testing costs and enables more accurate robustness evaluations within a limited time.
 
 ## License
 This code and model are available for non-commercial scientific research purposes as defined in the [LICENSE](LICENSE) file. By downloading and using the code and model you agree to the terms in the [LICENSE](LICENSE).

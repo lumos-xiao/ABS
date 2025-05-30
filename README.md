@@ -1,4 +1,4 @@
-<h1 align="center">Assessing the Robustness of LLM-based NLP Software via Automated Testing</h1>
+<h1 align="center">Automated Robustness Testing for LLM-based Natural Language Processing Software</h1>
 
 <p align="center">
 <b>

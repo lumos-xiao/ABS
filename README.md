@@ -74,24 +74,26 @@ Take a look at the `Models` directory in [Hugging Face](https://huggingface.co/m
 
 
 ## Test methods available via AORTA
-1. CheckList
-2. StressTest
-3. PWWS
-4. TextBugger
-5. TextFooler
-6. BAE
-7. BERT-attack
-8. CLARE
-9. Deepwordbug
-10. Alzantot
-11. Faster-alzantot
-12. IGA
-13. LEAP
-14. PSO
-15. PRUTHI
-16. Kuleshov
-17. Input-reduction
-18. ABS
+| Method | Paper |
+|:-----|:----:|
+| CheckList | [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://arxiv.org/abs/2109.00544) |
+| StressTest | [Stress Test Evaluation for Natural Language Inference](https://arxiv.org/abs/1806.00692) |
+| PWWS | [Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency](https://www.aclweb.org/anthology/P19-1103/) |
+| TextBugger | [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271) |
+| TextFooler | [Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) |
+| BAE | [BAE: BERT-based Adversarial Examples for Text Classification](https://arxiv.org/abs/2004.01970) |
+| BERT-attack | [BERT-ATTACK: Adversarial Attack Against BERT Using BERT](https://arxiv.org/abs/2004.09984) |
+| CLARE | [Contextualized Perturbation for Textual Adversarial Attack](https://arxiv.org/abs/2009.07502) |
+| DeepWordBug | [Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers](https://arxiv.org/abs/1801.04354) |
+| Alzantot | [Generating Natural Language Adversarial Examples](https://arxiv.org/abs/1804.07998) |
+| Faster-Alzantot | [Certified Robustness to Adversarial Word Substitutions](https://arxiv.org/abs/1909.00986) |
+| IGA | [Natural Language Adversarial Defense through Synonym Encoding](https://arxiv.org/abs/1909.06723) |
+| LEAP | [LEAP: Efficient and Automated Test Method for NLP Software](https://ieeexplore.ieee.org/abstract/document/10298415/) |
+| PSO | [Word-level Textual Adversarial Attacking as Combinatorial Optimization](https://www.aclweb.org/anthology/2020.acl-main.540/) |
+| Pruthi | [Combating Adversarial Misspellings with Robust Word Recognition](https://arxiv.org/abs/1905.11268) |
+| Kuleshov | [Adversarial Examples for Natural Language Classification Problems](https://openreview.net/pdf?id=r1QZ3zbAZ) |
+| Input-reduction | [Pathologies of Neural Models Make Interpretations Difficult](https://arxiv.org/pdf/1804.07781.pdf) |
+| ABS | [Assessing the Robustness of LLM-based NLP Software via Automated Testing](https://arxiv.org/abs/2412.21016) |
 
 ## Supplementary
 ### Comparison results of ABS in RQ2 with three currently best performing baselines

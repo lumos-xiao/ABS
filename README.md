@@ -93,7 +93,7 @@ Take a look at the `Models` directory in [Hugging Face](https://huggingface.co/m
 | Pruthi | [Combating Adversarial Misspellings with Robust Word Recognition](https://arxiv.org/abs/1905.11268) |
 | Kuleshov | [Adversarial Examples for Natural Language Classification Problems](https://openreview.net/pdf?id=r1QZ3zbAZ) |
 | Input-reduction | [Pathologies of Neural Models Make Interpretations Difficult](https://arxiv.org/pdf/1804.07781.pdf) |
-| ABS | [Assessing the Robustness of LLM-based NLP Software via Automated Testing](https://arxiv.org/abs/2412.21016) |
+| ABS | [Automated Robustness Testing for LLM-based Natural Language Processing Software](https://arxiv.org/abs/2412.21016) |
 
 ## Supplementary
 ### Comparison results of ABS in RQ2 with three currently best performing baselines
